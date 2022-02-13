@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+.verf {
+    width: 100%;
+}
+
+.hjprkfl {
+    text-align: center;
+}
+
+a {
+    margin: 50px;
+    border-bottom: 4px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+.ntrcn {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.rfhnbyrf {
+    border-left: 6px dotted black;
+    padding: 5px;
+}
+
+td {
+    border: 10px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
